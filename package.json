@@ -1,0 +1,23 @@
+{
+  "name": "mvcc_t_b",
+  "version": "1.0.0",
+  "description": "Tech Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AM0726Github/MVCC_T_B.git"
+  },
+  "keywords": [
+    "Tech",
+    "Blog"
+  ],
+  "author": "Alik Margaryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AM0726Github/MVCC_T_B/issues"
+  },
+  "homepage": "https://github.com/AM0726Github/MVCC_T_B#readme"
+}
