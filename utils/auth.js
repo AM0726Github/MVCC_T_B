@@ -1,5 +1,9 @@
-const moment = require('moment');
-
-module.exports = {
-    format_date: date => { return moment(date).format('MMMM Do YYYY') }
-}
+const withAuth = (req, res, next) => {
+    if (!req.session.user_id) {
+      res.redirect("/login");
+    } else {
+      next();
+    }
+};
+  
+module.exports = withAuth;
