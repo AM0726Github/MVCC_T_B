@@ -7,27 +7,26 @@ const app = express();
 const PORT = process.env.PORT || 3005;
 const exphbs = require('express-handlebars');
 const session = require('express-session');
-const SequelizeStore = require('connect-session-sequelize')(session.Store);
+const SequelizeThat = require('connect-session-sequelize')(session.Store);
 
 const sess = {
     secret: 'Sexkret',
     cookie: { maxAge: 86400 },
     resave: false,
     saveUninitialized: true,
-    store: new SequelizeStore({
-        db: sequelize
-    })
+    store: new SequelizeThat({ db: sequelize })
 };
 
 app.use(session(sess));
-const helpers = require('./utils/helpers');
-const hbs = exphbs.create({ helpers });
+
+const help = require('./utils/helpers');
+const hbs = exphbs.create({ help });
+
 app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-
 app.use(routes);
 
 sequelize.sync({ force: false }).then(() => {
