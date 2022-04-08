@@ -1,7 +1,7 @@
 # MVCC_T_B
 
 Model-View-Controller Challenge: Tech Blog
- 
+
 ## Description
 
 This project is an application that alows users to share posts with another users with comment and reduct features.  
@@ -14,9 +14,9 @@ This project is an application that alows users to share posts with another user
 
 ## Links
 
-* deployed website on Heroku https://app-tech-app.herokuapp.com/
+* ![deployed website on Heroku](https://app-tech-app.herokuapp.com/)
 
-* GitHub repository https://github.com/AM0726Github/MVCC_T_B
+* ![GitHub repository](https://github.com/AM0726Github/MVCC_T_B)
 
 ## Usage
 
@@ -37,4 +37,4 @@ Clone the repository,
 
 ## Demo Walktrough
 
-Video Walktrough https://drive.google.com/file/d/1K0MTZL0ScmL6pZSAOmqhduot9vALFMkC/view
+![Video Walktrough](https://drive.google.com/file/d/1K0MTZL0ScmL6pZSAOmqhduot9vALFMkC/view)
