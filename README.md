@@ -1,8 +1,8 @@
 # MVCC_T_B
 
  Model-View-Controller Challenge: Tech Blog
-
-## Description
+ 
+ ## Description
 
 This project is an application that alows users to share posts with another users with comment and reduct features.  
 
