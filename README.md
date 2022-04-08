@@ -32,11 +32,11 @@ Clone the repository,
 
 ## Mock-Up
 
-![14-mvc-homework]()
+![14-mvc-homework](./public/images/14-mvc-homework-demo-01.gif)
 
 ## Screenshot
-![Screenshot]()
+![Screenshot](./public/images/MVCC_T_B_TECH_BLOG.gif)
 
-## Demo
+## Demo Walktrough
 
 Video Walktrough https://drive.google.com/file/d/1K0MTZL0ScmL6pZSAOmqhduot9vALFMkC/view
