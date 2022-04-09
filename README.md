@@ -4,7 +4,14 @@ Model-View-Controller Challenge: Tech Blog
 
 ## Description
 
-This project is an application that alows users to share posts with another users with comment and reduct features.  
+This project is an application that alows users to share posts with another users with comment and reduct features.
+
+## User Story
+
+```md
+AS A developer who writes about tech
+I WANT a CMS-style blog site
+SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Tasks completed
 
