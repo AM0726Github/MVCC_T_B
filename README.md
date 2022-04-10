@@ -12,6 +12,7 @@ This project is an application that alows users to share posts with another user
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
+```
 
 ## Tasks completed
 
@@ -21,7 +22,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Links
 
-* ![deployed website on Heroku](https://app-tech-app.herokuapp.com/)
+* ![deployed website on Heroku](https://guarded-sea-37072.herokuapp.com/)
 
 * ![GitHub repository](https://github.com/AM0726Github/MVCC_T_B)
 
