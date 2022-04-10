@@ -22,9 +22,9 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Links
 
-* ![deployed website on Heroku](https://guarded-sea-37072.herokuapp.com/)
+* deployed website on Heroku https://guarded-sea-37072.herokuapp.com/
 
-* ![GitHub repository](https://github.com/AM0726Github/MVCC_T_B)
+* GitHub repository https://github.com/AM0726Github/MVCC_T_B
 
 ## Usage
 
@@ -45,4 +45,4 @@ Clone the repository,
 
 ## Demo Walktrough
 
-![Video Walktrough](https://drive.google.com/file/d/1K0MTZL0ScmL6pZSAOmqhduot9vALFMkC/view)
+Video Walktrough https://drive.google.com/file/d/1K0MTZL0ScmL6pZSAOmqhduot9vALFMkC/view
